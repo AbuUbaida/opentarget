@@ -1,0 +1,6 @@
+Start training on seed 3......
+Model:  bertweet
+Length of the set: 149
+current random seed:  3
+torch.Size([149, 3]) torch.Size([149])
+CSV file generated!
